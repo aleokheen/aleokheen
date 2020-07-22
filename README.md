@@ -1,9 +1,3 @@
-# Alexander Aleokheen
-
-![Alexader Aleokheen](https://raw.githubusercontent.com/aleokheen/aleokheen/master/aleokheen_cropped.jpg)
-
-**MERN Stack Developer**
-
 Website: [aleokheen.com](https://aleokheen.com)
 
 ## Skills
