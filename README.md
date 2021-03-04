@@ -1,5 +1,3 @@
-Website: [aleokheen.com](https://aleokheen.com)
-
 ## Skills
 
 ### FrontEnd
@@ -8,12 +6,13 @@ Website: [aleokheen.com](https://aleokheen.com)
 
  - HTML
  - CSS
- - JavaScript (ES5-8, ESLinted)
+ - JavaScript
  - Pug
  - Stylus
  - Less
  - Sass
  - Markdown
+ - Python
  
 #### Frameworks
 
